@@ -1,0 +1,72 @@
+{
+  "/__docusaurus/debug-3d6": {
+    "component": "component---theme-debug-config-23-a-2ff"
+  },
+  "/__docusaurus/debug/config-914": {
+    "component": "component---theme-debug-config-23-a-2ff"
+  },
+  "/__docusaurus/debug/content-c28": {
+    "component": "component---theme-debug-contentba-8-ce7",
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+  },
+  "/__docusaurus/debug/globalData-3cf": {
+    "component": "component---theme-debug-global-dataede-0fa"
+  },
+  "/__docusaurus/debug/metadata-31b": {
+    "component": "component---theme-debug-site-metadata-68-e-3d4"
+  },
+  "/__docusaurus/debug/registry-0da": {
+    "component": "component---theme-debug-registry-679-501"
+  },
+  "/__docusaurus/debug/routes-244": {
+    "component": "component---theme-debug-routes-946-699"
+  },
+  "/blog/archive-f4c": {
+    "component": "component---theme-blog-archive-page-9-e-4-1d8",
+    "archive": "archive---blog-archiveb-2-f-393"
+  },
+  "/markdown-page-be1": {
+    "component": "component---theme-mdx-page-1-f-3-b90",
+    "content": "content---markdown-page-393-028"
+  },
+  "/-502": {
+    "component": "component---theme-doc-page-1-be-9be",
+    "versionMetadata": "versionMetadata---935-fcf"
+  },
+  "/-96c": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---0-e-3-279"
+  },
+  "/tutorial-basics/congratulations-4b2": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---tutorial-basics-congratulations-822-79f"
+  },
+  "/tutorial-basics/create-a-blog-post-93c": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---tutorial-basics-create-a-blog-post-533-8b3"
+  },
+  "/tutorial-basics/create-a-document-58e": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---tutorial-basics-create-a-document-1-e-4-f30"
+  },
+  "/tutorial-basics/create-a-page-e6a": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---tutorial-basics-create-a-page-5-c-8-d8b"
+  },
+  "/tutorial-basics/deploy-your-site-317": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---tutorial-basics-deploy-your-sitef-55-bcd"
+  },
+  "/tutorial-basics/markdown-features-04e": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---tutorial-basics-markdown-features-18-c-d7b"
+  },
+  "/tutorial-extras/manage-docs-versions-975": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---tutorial-extras-manage-docs-versionsdff-033"
+  },
+  "/tutorial-extras/translate-your-site-ac7": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---tutorial-extras-translate-your-sitee-44-f13"
+  }
+}
