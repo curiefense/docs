@@ -1,15 +1,15 @@
 {
   "unversionedId": "tutorial-extras/manage-docs-versions",
-  "id": "tutorial-extras/manage-docs-versions",
+  "id": "version-1.0.0/tutorial-extras/manage-docs-versions",
   "title": "Manage Docs Versions",
   "description": "Docusaurus can manage multiple versions of your docs.",
-  "source": "@site/docs/tutorial-extras/manage-docs-versions.md",
+  "source": "@site/versioned_docs/version-1.0.0/tutorial-extras/manage-docs-versions.md",
   "sourceDirName": "tutorial-extras",
   "slug": "/tutorial-extras/manage-docs-versions",
-  "permalink": "/next/tutorial-extras/manage-docs-versions",
-  "editUrl": "https://github.com/curiefense/docs/docs/tutorial-extras/manage-docs-versions.md",
+  "permalink": "/tutorial-extras/manage-docs-versions",
+  "editUrl": "https://github.com/curiefense/docs/versioned_docs/version-1.0.0/tutorial-extras/manage-docs-versions.md",
   "tags": [],
-  "version": "current",
+  "version": "1.0.0",
   "sidebarPosition": 1,
   "frontMatter": {
     "sidebar_position": 1
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Congratulations!",
-    "permalink": "/next/tutorial-basics/congratulations"
+    "permalink": "/tutorial-basics/congratulations"
   },
   "next": {
     "title": "Translate your site",
-    "permalink": "/next/tutorial-extras/translate-your-site"
+    "permalink": "/tutorial-extras/translate-your-site"
   }
 }

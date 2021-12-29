@@ -1,15 +1,15 @@
 {
   "unversionedId": "tutorial-basics/create-a-document",
-  "id": "tutorial-basics/create-a-document",
+  "id": "version-1.0.0/tutorial-basics/create-a-document",
   "title": "Create a Document",
   "description": "Documents are groups of pages connected through:",
-  "source": "@site/docs/tutorial-basics/create-a-document.md",
+  "source": "@site/versioned_docs/version-1.0.0/tutorial-basics/create-a-document.md",
   "sourceDirName": "tutorial-basics",
   "slug": "/tutorial-basics/create-a-document",
-  "permalink": "/next/tutorial-basics/create-a-document",
-  "editUrl": "https://github.com/curiefense/docs/docs/tutorial-basics/create-a-document.md",
+  "permalink": "/tutorial-basics/create-a-document",
+  "editUrl": "https://github.com/curiefense/docs/versioned_docs/version-1.0.0/tutorial-basics/create-a-document.md",
   "tags": [],
-  "version": "current",
+  "version": "1.0.0",
   "sidebarPosition": 2,
   "frontMatter": {
     "sidebar_position": 2
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Create a Page",
-    "permalink": "/next/tutorial-basics/create-a-page"
+    "permalink": "/tutorial-basics/create-a-page"
   },
   "next": {
     "title": "Create a Blog Post",
-    "permalink": "/next/tutorial-basics/create-a-blog-post"
+    "permalink": "/tutorial-basics/create-a-blog-post"
   }
 }

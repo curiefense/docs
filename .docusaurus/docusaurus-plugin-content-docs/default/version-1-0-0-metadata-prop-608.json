@@ -1,17 +1,17 @@
 {
   "pluginId": "default",
-  "version": "current",
-  "label": "Next",
-  "banner": "unreleased",
+  "version": "1.0.0",
+  "label": "1.0.0",
+  "banner": null,
   "badge": true,
-  "className": "docs-version-current",
-  "isLast": false,
+  "className": "docs-version-1.0.0",
+  "isLast": true,
   "docsSidebars": {
     "tutorialSidebar": [
       {
         "type": "link",
         "label": "Overview",
-        "href": "/next/",
+        "href": "/",
         "docId": "intro"
       },
       {
@@ -23,37 +23,37 @@
           {
             "type": "link",
             "label": "Create a Page",
-            "href": "/next/tutorial-basics/create-a-page",
+            "href": "/tutorial-basics/create-a-page",
             "docId": "tutorial-basics/create-a-page"
           },
           {
             "type": "link",
             "label": "Create a Document",
-            "href": "/next/tutorial-basics/create-a-document",
+            "href": "/tutorial-basics/create-a-document",
             "docId": "tutorial-basics/create-a-document"
           },
           {
             "type": "link",
             "label": "Create a Blog Post",
-            "href": "/next/tutorial-basics/create-a-blog-post",
+            "href": "/tutorial-basics/create-a-blog-post",
             "docId": "tutorial-basics/create-a-blog-post"
           },
           {
             "type": "link",
             "label": "Markdown Features",
-            "href": "/next/tutorial-basics/markdown-features",
+            "href": "/tutorial-basics/markdown-features",
             "docId": "tutorial-basics/markdown-features"
           },
           {
             "type": "link",
             "label": "Deploy your site",
-            "href": "/next/tutorial-basics/deploy-your-site",
+            "href": "/tutorial-basics/deploy-your-site",
             "docId": "tutorial-basics/deploy-your-site"
           },
           {
             "type": "link",
             "label": "Congratulations!",
-            "href": "/next/tutorial-basics/congratulations",
+            "href": "/tutorial-basics/congratulations",
             "docId": "tutorial-basics/congratulations"
           }
         ]
@@ -67,13 +67,13 @@
           {
             "type": "link",
             "label": "Manage Docs Versions",
-            "href": "/next/tutorial-extras/manage-docs-versions",
+            "href": "/tutorial-extras/manage-docs-versions",
             "docId": "tutorial-extras/manage-docs-versions"
           },
           {
             "type": "link",
             "label": "Translate your site",
-            "href": "/next/tutorial-extras/translate-your-site",
+            "href": "/tutorial-extras/translate-your-site",
             "docId": "tutorial-extras/translate-your-site"
           }
         ]

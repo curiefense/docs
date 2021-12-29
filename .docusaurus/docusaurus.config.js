@@ -42,6 +42,12 @@ export default {
           "label": "Tutorial"
         },
         {
+          "type": "docsVersionDropdown",
+          "position": "right",
+          "dropdownItemsBefore": [],
+          "dropdownItemsAfter": []
+        },
+        {
           "href": "https://github.com/curiefense/curiefense",
           "label": "GitHub",
           "position": "right"

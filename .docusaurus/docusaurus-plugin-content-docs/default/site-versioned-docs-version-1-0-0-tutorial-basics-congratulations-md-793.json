@@ -1,15 +1,15 @@
 {
   "unversionedId": "tutorial-basics/congratulations",
-  "id": "tutorial-basics/congratulations",
+  "id": "version-1.0.0/tutorial-basics/congratulations",
   "title": "Congratulations!",
   "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
-  "source": "@site/docs/tutorial-basics/congratulations.md",
+  "source": "@site/versioned_docs/version-1.0.0/tutorial-basics/congratulations.md",
   "sourceDirName": "tutorial-basics",
   "slug": "/tutorial-basics/congratulations",
-  "permalink": "/next/tutorial-basics/congratulations",
-  "editUrl": "https://github.com/curiefense/docs/docs/tutorial-basics/congratulations.md",
+  "permalink": "/tutorial-basics/congratulations",
+  "editUrl": "https://github.com/curiefense/docs/versioned_docs/version-1.0.0/tutorial-basics/congratulations.md",
   "tags": [],
-  "version": "current",
+  "version": "1.0.0",
   "sidebarPosition": 6,
   "frontMatter": {
     "sidebar_position": 6
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Deploy your site",
-    "permalink": "/next/tutorial-basics/deploy-your-site"
+    "permalink": "/tutorial-basics/deploy-your-site"
   },
   "next": {
     "title": "Manage Docs Versions",
-    "permalink": "/next/tutorial-extras/manage-docs-versions"
+    "permalink": "/tutorial-extras/manage-docs-versions"
   }
 }

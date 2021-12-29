@@ -1,15 +1,15 @@
 {
   "unversionedId": "tutorial-extras/translate-your-site",
-  "id": "tutorial-extras/translate-your-site",
+  "id": "version-1.0.0/tutorial-extras/translate-your-site",
   "title": "Translate your site",
   "description": "Let's translate docs/intro.md to French.",
-  "source": "@site/docs/tutorial-extras/translate-your-site.md",
+  "source": "@site/versioned_docs/version-1.0.0/tutorial-extras/translate-your-site.md",
   "sourceDirName": "tutorial-extras",
   "slug": "/tutorial-extras/translate-your-site",
-  "permalink": "/next/tutorial-extras/translate-your-site",
-  "editUrl": "https://github.com/curiefense/docs/docs/tutorial-extras/translate-your-site.md",
+  "permalink": "/tutorial-extras/translate-your-site",
+  "editUrl": "https://github.com/curiefense/docs/versioned_docs/version-1.0.0/tutorial-extras/translate-your-site.md",
   "tags": [],
-  "version": "current",
+  "version": "1.0.0",
   "sidebarPosition": 2,
   "frontMatter": {
     "sidebar_position": 2
@@ -17,6 +17,6 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Manage Docs Versions",
-    "permalink": "/next/tutorial-extras/manage-docs-versions"
+    "permalink": "/tutorial-extras/manage-docs-versions"
   }
 }

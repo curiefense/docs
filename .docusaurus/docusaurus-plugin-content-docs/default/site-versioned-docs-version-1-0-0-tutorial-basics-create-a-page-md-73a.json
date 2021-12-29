@@ -1,15 +1,15 @@
 {
   "unversionedId": "tutorial-basics/create-a-page",
-  "id": "tutorial-basics/create-a-page",
+  "id": "version-1.0.0/tutorial-basics/create-a-page",
   "title": "Create a Page",
   "description": "Add Markdown or React files to src/pages to create a standalone page:",
-  "source": "@site/docs/tutorial-basics/create-a-page.md",
+  "source": "@site/versioned_docs/version-1.0.0/tutorial-basics/create-a-page.md",
   "sourceDirName": "tutorial-basics",
   "slug": "/tutorial-basics/create-a-page",
-  "permalink": "/next/tutorial-basics/create-a-page",
-  "editUrl": "https://github.com/curiefense/docs/docs/tutorial-basics/create-a-page.md",
+  "permalink": "/tutorial-basics/create-a-page",
+  "editUrl": "https://github.com/curiefense/docs/versioned_docs/version-1.0.0/tutorial-basics/create-a-page.md",
   "tags": [],
-  "version": "current",
+  "version": "1.0.0",
   "sidebarPosition": 1,
   "frontMatter": {
     "sidebar_position": 1
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Overview",
-    "permalink": "/next/"
+    "permalink": "/"
   },
   "next": {
     "title": "Create a Document",
-    "permalink": "/next/tutorial-basics/create-a-document"
+    "permalink": "/tutorial-basics/create-a-document"
   }
 }
