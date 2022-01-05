@@ -6,7 +6,7 @@
   "source": "@site/docs/tutorial-basics/create-a-page.md",
   "sourceDirName": "tutorial-basics",
   "slug": "/tutorial-basics/create-a-page",
-  "permalink": "/tutorial-basics/create-a-page",
+  "permalink": "/next/tutorial-basics/create-a-page",
   "editUrl": "https://github.com/curiefense/docs/docs/tutorial-basics/create-a-page.md",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Overview",
-    "permalink": "/"
+    "permalink": "/next/"
   },
   "next": {
     "title": "Create a Document",
-    "permalink": "/tutorial-basics/create-a-document"
+    "permalink": "/next/tutorial-basics/create-a-document"
   }
 }

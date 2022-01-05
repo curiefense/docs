@@ -1,9 +1,9 @@
 export default {
   "title": "Curiefense Docs",
   "tagline": "Dinosaurs are cool",
-  "url": "https://your-docusaurus-test-site.com",
+  "url": "https://tender-lewin-90c232.netlify.app",
   "baseUrl": "/",
-  "onBrokenLinks": "throw",
+  "onBrokenLinks": "warn",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
   "organizationName": "curiefense",
@@ -40,6 +40,12 @@ export default {
           "docId": "intro",
           "position": "left",
           "label": "Tutorial"
+        },
+        {
+          "type": "docsVersionDropdown",
+          "position": "right",
+          "dropdownItemsBefore": [],
+          "dropdownItemsAfter": []
         },
         {
           "href": "https://github.com/curiefense/curiefense",
@@ -92,7 +98,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2020 - 2021 Curiefense Contributors. Built with Docusaurus."
+      "copyright": "Copyright © 2020 - 2022 Curiefense Contributors. Built with Docusaurus."
     },
     "prism": {
       "theme": {

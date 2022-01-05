@@ -1,0 +1,24 @@
+{
+  "unversionedId": "intro",
+  "id": "version-1.0.0/intro",
+  "title": "Overview",
+  "description": "Curiefense is an API-first, DevOps oriented web-defense HTTP-Filter adapter for Envoy. It provides multiple security technologies \\(WAF, application-layer DDoS protection, bot management, and more\\) along with real-time traffic monitoring and transparency.",
+  "source": "@site/versioned_docs/version-1.0.0/intro.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/",
+  "editUrl": "https://github.com/curiefense/docs/versioned_docs/version-1.0.0/intro.md",
+  "tags": [],
+  "version": "1.0.0",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_label": "Overview",
+    "sidebar_position": 1,
+    "slug": "/"
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Create a Page",
+    "permalink": "/tutorial-basics/create-a-page"
+  }
+}

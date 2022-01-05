@@ -6,7 +6,7 @@
   "source": "@site/docs/tutorial-basics/markdown-features.mdx",
   "sourceDirName": "tutorial-basics",
   "slug": "/tutorial-basics/markdown-features",
-  "permalink": "/tutorial-basics/markdown-features",
+  "permalink": "/next/tutorial-basics/markdown-features",
   "editUrl": "https://github.com/curiefense/docs/docs/tutorial-basics/markdown-features.mdx",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Create a Blog Post",
-    "permalink": "/tutorial-basics/create-a-blog-post"
+    "permalink": "/next/tutorial-basics/create-a-blog-post"
   },
   "next": {
     "title": "Deploy your site",
-    "permalink": "/tutorial-basics/deploy-your-site"
+    "permalink": "/next/tutorial-basics/deploy-your-site"
   }
 }

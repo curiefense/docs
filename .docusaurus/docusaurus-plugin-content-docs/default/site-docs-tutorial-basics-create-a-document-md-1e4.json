@@ -6,7 +6,7 @@
   "source": "@site/docs/tutorial-basics/create-a-document.md",
   "sourceDirName": "tutorial-basics",
   "slug": "/tutorial-basics/create-a-document",
-  "permalink": "/tutorial-basics/create-a-document",
+  "permalink": "/next/tutorial-basics/create-a-document",
   "editUrl": "https://github.com/curiefense/docs/docs/tutorial-basics/create-a-document.md",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Create a Page",
-    "permalink": "/tutorial-basics/create-a-page"
+    "permalink": "/next/tutorial-basics/create-a-page"
   },
   "next": {
     "title": "Create a Blog Post",
-    "permalink": "/tutorial-basics/create-a-blog-post"
+    "permalink": "/next/tutorial-basics/create-a-blog-post"
   }
 }
