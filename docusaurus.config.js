@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Curiefense Docs',
   tagline: 'Dinosaurs are cool',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://tender-lewin-90c232.netlify.app',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -120,7 +120,3 @@ const config = {
 }
 
 module.exports = config
-module.exports = {
-  url: 'https://tender-lewin-90c232.netlify.app',
-  baseUrl: '/'
-}
