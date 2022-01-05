@@ -120,3 +120,7 @@ const config = {
 }
 
 module.exports = config
+module.exports = {
+  url: 'https://tender-lewin-90c232.netlify.app',
+  baseUrl: '/'
+}
