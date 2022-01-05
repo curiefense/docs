@@ -3,7 +3,7 @@ export default {
   "tagline": "Dinosaurs are cool",
   "url": "https://tender-lewin-90c232.netlify.app",
   "baseUrl": "/",
-  "onBrokenLinks": "throw",
+  "onBrokenLinks": "warn",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
   "organizationName": "curiefense",
